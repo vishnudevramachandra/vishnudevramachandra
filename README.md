@@ -9,7 +9,7 @@ Building intelligent software systems at the intersection of
 
 📍 Stuttgart, Germany  
 📧 vishnudevramachandra@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/
+💼 LinkedIn: [vishnudevramachandra](http://www.linkedin.com/in/vishnudevramachandra)
 
 </div>
 
@@ -179,15 +179,14 @@ Enterprise application project exploring:
 
 ---
 
-# 📈 GitHub Statistics
+## 📈 GitHub Activity
 
-<div align="center">
+You can find my latest work and contributions in my repositories:
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishnudevramachandra&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vishnudevramachandra&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
+- 🧠 Scientific computing & neuroscience software → [TMS-TG](https://github.com/vishnudevramachandra/TMS-TG)
+- ⚙️ Systems programming → [42Projects-Minishell](https://github.com/vishnudevramachandra/42Projects-Minishell)
+- 🎨 Computer graphics → [42Projects-Minirt](https://github.com/vishnudevramachandra/42Projects-Minirt)
+- 🤖 AI applications → [ChildSafeAI](https://github.com/vishnudevramachandra/ChildSafeAI)
 
 ---
 

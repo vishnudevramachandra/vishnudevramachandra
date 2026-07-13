@@ -120,8 +120,28 @@ Main contributions:
 - Performance and reliability improvements
 
 Repository:
-
 https://github.com/CedricBauer00/Webserv
+
+---
+
+## 🤖 Agentic ERP Assistant
+**Independent Project · Enterprise AI & ERP Integration**
+
+Proof-of-concept demonstrating how an AI agent can act as an intelligent interface for enterprise resource planning systems.
+
+The project explores agent-based reasoning, tool orchestration, and safe interaction with ERP data using Claude and PostgreSQL.
+
+Main contributions:
+
+- Designed a realistic ERP domain model based on industrial service processes
+- Implemented AI-driven tool orchestration for database interaction
+- Built schema discovery capabilities for dynamic ERP understanding
+- Developed controlled transaction workflows for safe data modification
+- Applied enterprise software principles to AI system integration
+- Documented architectural decisions for scalable ERP automation
+
+Repository:
+https://github.com/vishnudevramachandra/Agentic-ERP-Assistant
 
 ---
 

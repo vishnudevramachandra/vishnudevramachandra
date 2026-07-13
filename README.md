@@ -17,7 +17,7 @@ Building intelligent software systems at the intersection of
 
 ## 👋 About Me
 
-I am a software engineer with **15+ years of experience** developing software for scientific research, data-driven applications, and complex technical systems.
+I am a software engineer with **10+ years of experience** developing software for scientific research, data-driven applications, and complex technical systems.
 
 My background combines:
 
